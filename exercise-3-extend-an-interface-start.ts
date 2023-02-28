@@ -12,10 +12,6 @@ interface Country {
 // - Extend the `Country` interface
 // - Add a `population` property with an appropriate type
 
-// Completa l'interfaccia `CountryWithPopulation`:
-
-// - Estende l'interfaccia `Paese`
-// - Aggiunge una proprietà `popolazione` con un tipo appropriato
 
 interface CountryWithPopulation {
  name:string;
